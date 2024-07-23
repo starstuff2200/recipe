@@ -9,5 +9,6 @@ Add one line - test
 ### Assignment 5
 Steps: 
 1. marinate the wings with lemongrass and Asian seasonings **overnight**
-2. roast wings for about 20 minutes
-3. serve 
+2. roast wings for about **20 minutes**
+3. serve
+![recipe](Documents/assignment5/recipe/recipe.jpg)
